@@ -1,0 +1,23 @@
+{
+  "name": "evc_skyline",
+  "version": "1.0.0",
+  "description": "EVC Skyline project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AungYang/EVC_Skyline.git"
+  },
+  "author": "Aung Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AungYang/EVC_Skyline/issues"
+  },
+  "homepage": "https://github.com/AungYang/EVC_Skyline#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
